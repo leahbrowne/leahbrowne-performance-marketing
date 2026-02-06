@@ -1,0 +1,348 @@
+{
+  "identity": {
+    "full_name": "Leah Browne",
+    "primary_professional_title": "Performance Marketing Strategy Consultant",
+    "secondary_title": "Marketing Lead | Growth & Performance",
+    "one_sentence_description": "Performance marketing and growth strategist specialising in paid acquisition systems, full-funnel optimisation, and AI-enabled marketing for streaming, energy, ecommerce, and SaaS businesses",
+    "years_of_experience": "10+ years"
+  },
+  "specialisations": {
+    "primary": "Performance marketing strategy",
+    "secondary": [
+      "Digital acquisition",
+      "Growth systems",
+      "Attribution modelling",
+      "CRO",
+      "AI-enabled optimisation",
+      "Ecommerce growth"
+    ]
+  },
+  "experience_model": [
+    "Agency",
+    "Client-side",
+    "Consulting",
+    "Fractional",
+    "Freelance"
+  ],
+  "current_role_status": "Independent Consultant",
+  "consulting_business": {
+    "name": "Moremi Digital",
+    "url": "moremidigital.com"
+  },
+  "contact": {
+    "email_preferred": [
+      "leahmbrowne@gmail.com",
+      "contact@moremidigital.com"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/leahbrowne/",
+    "github": "please provide repo URL"
+  },
+  "geographic_experience": {
+    "countries_worked_in": [
+      "Barbados",
+      "Dubai",
+      "United Kingdom"
+    ],
+    "campaign_regions_managed": [
+      "UK",
+      "US",
+      "Canada",
+      "Europe",
+      "Gulf"
+    ]
+  },
+  "positioning": {
+    "primary_expertise": "Performance marketing strategy and acquisition leadership",
+    "secondary_expertise": [
+      "Growth diagnostics",
+      "Analytics architecture",
+      "AI workflows",
+      "Market entry strategy"
+    ],
+    "problems_solved": [
+      "High CAC",
+      "High CPL",
+      "Inefficient paid media",
+      "Poor attribution",
+      "Low conversion rates",
+      "Fragmented analytics",
+      "Scaling acquisition profitably"
+    ],
+    "typical_client_type": [
+      "Growth-stage companies",
+      "Enterprise brands"
+    ]
+  },
+  "budget_ownership": {
+    "cumulative": "£25M+ cumulative",
+    "largest_annual_budget": "£2.5M+"
+  },
+  "engagement_types_offered": [
+    "Consulting",
+    "Fractional leadership",
+    "Strategy",
+    "Diagnostics",
+    "Audits",
+    "Implementation"
+  ],
+  "differentiators": [
+    "Hands-on execution plus strategy",
+    "Agency and in-house leadership",
+    "Multi-million budget ownership",
+    "Data-first decision making",
+    "AI-native workflows"
+  ],
+  "core_skills": {
+    "strategy": [
+      "Growth strategy",
+      "Acquisition strategy",
+      "Forecasting",
+      "Attribution frameworks",
+      "Performance diagnostics"
+    ],
+    "channels": [
+      "Paid social",
+      "Paid search (PPC)",
+      "Amazon Search Ads",
+      "SEO",
+      "Affiliates",
+      "Display",
+      "TikTok Shop",
+      "Email"
+    ],
+    "analytics": [
+      "GA4",
+      "GTM",
+      "SA360",
+      "Dashboarding",
+      "KPI frameworks",
+      "Multi-touch attribution"
+    ],
+    "cro": [
+      "A/B testing",
+      "Conversion optimisation",
+      "Landing page optimisation"
+    ],
+    "lifecycle": [
+      "Email automation",
+      "Segmentation",
+      "Retention optimisation"
+    ],
+    "ai_automation": [
+      "Prompt engineering",
+      "Workflow automation",
+      "Reporting automation",
+      "Vibecoding"
+    ],
+    "technical": [
+      "Contentful",
+      "WordPress",
+      "Tag implementation",
+      "Tracking infrastructure",
+      "GitHub"
+    ],
+    "leadership": [
+      "Budget ownership",
+      "Agency management",
+      "Team leadership",
+      "Cross-functional management"
+    ],
+    "team_sizes_managed": "Up to 16"
+  },
+  "tools_platforms": {
+    "ad_platforms": [
+      "Google Ads",
+      "Meta",
+      "TikTok",
+      "Amazon Search Ads"
+    ],
+    "analytics": [
+      "GA4",
+      "GTM",
+      "SA360",
+      "Looker Studio"
+    ],
+    "cms": [
+      "Contentful",
+      "WordPress"
+    ],
+    "optimisation": [
+      "Hotjar"
+    ],
+    "email": [
+      "Mailchimp"
+    ],
+    "dev_ai": [
+      "Replit",
+      "Cursor",
+      "GitHub"
+    ]
+  },
+  "industries": [
+    "Streaming media",
+    "Energy / Smart home / Net Zero",
+    "Retail",
+    "Fashion ecommerce",
+    "DTC subscriptions",
+    "Aviation maintenance"
+  ],
+  "example_companies": [
+    "NBCUniversal",
+    "OnAir",
+    "British Gas",
+    "Hive Smart Home",
+    "Phase Eight",
+    "Ted Baker",
+    "Charles Tyrwhitt",
+    "ATSB Aviation"
+  ],
+  "experience": [
+    {
+      "company": "OnAir",
+      "title": "Director of Marketing (Contract)",
+      "details": [
+        "Brand relaunch and acquisition growth strategy",
+        "Built marketing function",
+        "SEO, CMS, analytics infrastructure"
+      ]
+    },
+    {
+      "company": "Centrica Hive EcoTech & British Gas",
+      "title": "Performance Marketing Lead (Contract)",
+      "details": [
+        "£2.5M budget",
+        "Paid social, search, display, TikTok Shop",
+        "Reduced cost per lead by 27%",
+        "Achieved annual lead targets by Q3"
+      ]
+    },
+    {
+      "company": "ATSB Aviation",
+      "title": "Growth Strategy Consultant",
+      "details": [
+        "Developed growth strategy and financial models",
+        "Secured $250K seed funding"
+      ]
+    },
+    {
+      "company": "Universal Media MENA",
+      "title": "Regional Performance Marketing Director",
+      "details": [
+        "Led Gulf performance strategy",
+        "Managed 6-person team"
+      ]
+    },
+    {
+      "company": "L’Oréal Amazon launch strategy",
+      "title": "Performics Media",
+      "details": [
+        "Business Director",
+        "Led 16-person team",
+        "325% YoY ecommerce growth",
+        "41% reduction in media waste"
+      ]
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Digital Performance Marketing Manager",
+      "details": [
+        "£25M budget",
+        "5 international streaming launches",
+        "40% subscriber acquisition increase",
+        "32% CPA reduction"
+      ]
+    },
+    {
+      "company": "Phase Eight",
+      "title": "Ecommerce Marketing Manager",
+      "details": [
+        "19% YoY online sales growth"
+      ]
+    },
+    {
+      "company": "Earlier roles",
+      "details": [
+        "Charles Tyrwhitt",
+        "Ted Baker"
+      ]
+    }
+  ],
+  "metrics": {
+    "budget_ownership": "£25M+",
+    "largest_annual_budget": "£2.5M+",
+    "cost_per_lead_reduction": "27%",
+    "cpa_reduction": "32%",
+    "subscriber_acquisition_increase": "40%",
+    "ecommerce_growth": "325% YoY",
+    "media_waste_reduction": "41%",
+    "online_sales_growth": "19% YoY"
+  },
+  "frameworks_methods": [
+    {
+      "name": "Equilibrium then Momentum",
+      "steps": "please provide steps"
+    },
+    {
+      "name": "Intent vs Demand Acquisition",
+      "steps": "please provide steps"
+    },
+    {
+      "name": "Callback Optimisation",
+      "steps": "please provide steps"
+    }
+  ],
+  "services": [
+    "Performance marketing strategy",
+    "Growth diagnostics",
+    "Acquisition audits",
+    "Channel optimisation",
+    "Analytics and attribution setup",
+    "Fractional marketing leadership",
+    "AI-enabled marketing systems"
+  ],
+  "investing_quantitative_interests": {
+    "interest_areas": [
+      "Blockchain",
+      "Web apps",
+      "Automation",
+      "Investing"
+    ],
+    "investment_profile": "Self-taught investor",
+    "benchmark": "Global Large-Cap Growth Equity",
+    "trailing_returns": {
+      "3_months": "28.97%",
+      "6_months": "54.44%",
+      "1_year": "87.96%",
+      "3_years_annualised": "63.71%",
+      "5_years_annualised": "39.84%",
+      "ytd": "55.01%"
+    },
+    "performance_date": "31 Aug 2025"
+  },
+  "faq": [
+    {
+      "question": "What is Leah Browne known for",
+      "answer": "Performance marketing strategy and scalable acquisition systems"
+    },
+    {
+      "question": "Does she have agency and client-side experience",
+      "answer": "Yes"
+    },
+    {
+      "question": "Has she managed large budgets",
+      "answer": "Up to £25M"
+    },
+    {
+      "question": "What channels does she specialise in",
+      "answer": "Paid search, paid social, Amazon Search Ads, SEO, CRO"
+    },
+    {
+      "question": "What industries has she worked in",
+      "answer": "Streaming, energy, ecommerce, aviation"
+    },
+    {
+      "question": "How to contact",
+      "answer": "leahmbrowne@gmail.com; contact@moremidigital.com"
+    }
+  ]
+}

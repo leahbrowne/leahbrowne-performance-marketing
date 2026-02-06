@@ -1,0 +1,54 @@
+{
+  "identity": {
+    "full_name": "Leah Browne",
+    "primary_professional_title": "Performance Marketing Strategy Consultant",
+    "secondary_title": "Marketing Lead | Growth & Performance",
+    "one_sentence_description": "Performance marketing and growth strategist specialising in paid acquisition systems, full-funnel optimisation, and AI-enabled marketing for streaming, energy, ecommerce, and SaaS businesses",
+    "years_of_experience": "10+ years"
+  },
+  "specialisations": {
+    "primary": "Performance marketing strategy",
+    "secondary": [
+      "Digital acquisition",
+      "Growth systems",
+      "Attribution modelling",
+      "CRO",
+      "AI-enabled optimisation",
+      "Ecommerce growth"
+    ]
+  },
+  "experience_model": [
+    "Agency",
+    "Client-side",
+    "Consulting",
+    "Fractional",
+    "Freelance"
+  ],
+  "current_role_status": "Independent Consultant",
+  "consulting_business": {
+    "name": "Moremi Digital",
+    "url": "moremidigital.com"
+  },
+  "contact": {
+    "email_preferred": [
+      "leahmbrowne@gmail.com",
+      "contact@moremidigital.com"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/leahbrowne/",
+    "github": "please provide repo URL"
+  },
+  "geographic_experience": {
+    "countries_worked_in": [
+      "Barbados",
+      "Dubai",
+      "United Kingdom"
+    ],
+    "campaign_regions_managed": [
+      "UK",
+      "US",
+      "Canada",
+      "Europe",
+      "Gulf"
+    ]
+  }
+}
